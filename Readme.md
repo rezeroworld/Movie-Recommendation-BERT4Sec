@@ -1,0 +1,1 @@
+We used Pytorch and BERT language model to implement a movie recommendation system based on the paper [BERT4Sec](https://arxiv.org/pdf/1904.06690.pdf). We train the model on the users histories while masking random movies and trying to predict them. Results seems promising but finetuning is necessary to obtain better results. You can explore main.ipynb for more details.
